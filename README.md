@@ -13,9 +13,9 @@ Blockchain技術(Ethereum/solidity開発)を学ぶドキュメントをまとめ
 [Mastering Bitcoin(PDF)](https://www.bitcoinbook.info/translations-of-mastering-bitcoin/)
 [Mastering Bitcoin(HTML)](http://chimera.labs.oreilly.com/books/1234000001802/index.html)
 
-[Coursera:cryptocurrency]https://www.coursera.org/learn/cryptocurrency
-[Pluralsight:blockchain-fundamentals]https://www.pluralsight.com/courses/blockchain-fundamentals
-[Pluralsight:bitcoin-decentralized-technology]https://www.pluralsight.com/courses/bitcoin-decentralized-technology
+[Coursera:cryptocurrency](https://www.coursera.org/learn/cryptocurrency)
+[Pluralsight:blockchain-fundamentals](https://www.pluralsight.com/courses/blockchain-fundamentals)
+[Pluralsight:bitcoin-decentralized-technology](https://www.pluralsight.com/courses/bitcoin-decentralized-technology)
 
 ## Ethereum基礎まとめ
 [技術者向け Ethereumの基礎知識 (イーサリアム、エセリウム)](http://block-chain.jp/tech/ethereum-basics-for-engineer/)
