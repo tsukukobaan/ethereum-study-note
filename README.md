@@ -28,5 +28,7 @@ Blockchain技術(Ethereum/solidity開発)を学ぶドキュメントをまとめ
 https://solidity.readthedocs.io/en/develop/
 
 ## Ethereum libraries
+[公式github](https://github.com/ethereum)\
 [Web3](https://github.com/ethereum/web3.js/)\
-[geth](https://github.com/ethereum/go-ethereum)
+[geth](https://github.com/ethereum/go-ethereum)\
+[cpp-ethereum](https://github.com/ethereum/cpp-ethereum)
