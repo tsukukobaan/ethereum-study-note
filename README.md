@@ -41,16 +41,20 @@ Blockchain技術(Ethereum/solidity開発)を学ぶドキュメントをまとめ
  * [geth](https://github.com/ethereum/go-ethereum)　wikiが詳しいので読み込むべし
  * [cpp-ethereum](https://github.com/ethereum/cpp-ethereum)
  
-[EIP](https://github.com/ethereum/EIPs)
-[Solidity](https://github.com/ethereum/solidity)
+[EIP](https://github.com/ethereum/EIPs)\
+[testrpc](https://github.com/ethereumjs/testrpc)\
+[truffle](https://github.com/trufflesuite/truffle)
+
+[Solidity](https://github.com/ethereum/solidity)\
 [Solidityドキュメンテーション](https://solidity.readthedocs.io/en/develop/)
 
 
 web3の他言語実装
-[python: Web3.py](https://github.com/pipermerriam/web3.py)
-[haskell: hs-web3](https://github.com/airalab/hs-web3)
+[python: Web3.py](https://github.com/pipermerriam/web3.py)\
+[haskell: hs-web3](https://github.com/airalab/hs-web3)\
 [Java: web3j](https://github.com/web3j/web3j)
 
-[open-zeppelin](https://openzeppelin.org/)
+[open-zeppelin](https://openzeppelin.org/)\
+[tutorial](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 
 [Solidityまとめ](https://github.com/bkrem/awesome-solidity)
