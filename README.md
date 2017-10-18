@@ -1,7 +1,13 @@
 # Ethereum / Solidityを勉強するためのNote
-
-## Why we do this.
 Blockchain技術(Ethereum/solidity開発)を学ぶドキュメントをまとめるメモです
+
+## 目次
+
+## 学習ロードマップ
+ブロックチェーン基礎の学習
+Ethereumの学習
+環境設定
+Tools&Framework
 
 ## 情報まとめサイト
 [block-chain.jp](http://block-chain.jp/)
