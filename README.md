@@ -32,8 +32,7 @@ Blockchain技術(Ethereum/solidity開発)を学ぶドキュメントをまとめ
 [How to setup local test Ethereum Blockchain](https://lightrains.com/blogs/setup-local-ethereum-blockchain-private-testnet)\
 
 
-
-## Ethereum libraries
+## Ethereum
 ### [Ethereum.org](https://ethereum.org/)
 ### [Ethereum公式github](https://github.com/ethereum)
  * [web3.js](https://github.com/ethereum/web3.js/)
@@ -42,19 +41,86 @@ Blockchain技術(Ethereum/solidity開発)を学ぶドキュメントをまとめ
  * [cpp-ethereum](https://github.com/ethereum/cpp-ethereum)
  
 [EIP](https://github.com/ethereum/EIPs)\
-[testrpc](https://github.com/ethereumjs/testrpc)\
-[truffle](https://github.com/trufflesuite/truffle)
+[testrpc](https://github.com/ethereumjs/testrpc)
 
+　## Solidity
 [Solidity](https://github.com/ethereum/solidity)\
 [Solidityドキュメンテーション](https://solidity.readthedocs.io/en/develop/)
-
+### Tutorials
+[Monax Smart Contract Tutorial](https://monax.io/docs/tutorials/solidity/)\
+[Solidity Workshop](https://github.com/androlo/solidity-workshop)\
+[Upgradable Contracts](https://blog.colony.io/writing-upgradeable-contracts-in-solidity-6743f0eecc88)\
+[EthereumDev.io](https://ethereumdev.io/)
 
 web3の他言語実装
 [python: Web3.py](https://github.com/pipermerriam/web3.py)\
 [haskell: hs-web3](https://github.com/airalab/hs-web3)\
 [Java: web3j](https://github.com/web3j/web3j)
 
+## framework
 [open-zeppelin](https://openzeppelin.org/)\
 [tutorial](https://blog.zeppelin.solutions/the-hitchhikers-guide-to-smart-contracts-in-ethereum-848f08001f05)
 
+[embark](https://github.com/iurimatias/embark-framework)
+
 [Solidityまとめ](https://github.com/bkrem/awesome-solidity)
+
+
+#### 参考になる実装例
+[Solidity By Example](http://solidity.readthedocs.io/en/latest/solidity-by-example.html)\
+[solidity-examples](https://github.com/chriseth/solidity-examples)\
+[Solidity idiosyncrasies](https://github.com/miguelmota/solidity-idiosyncrasies)\
+[Solidity Baby Steps](https://github.com/fivedogit/solidity-baby-steps)\
+[DigixDAO contracts](https://github.com/DigixGlobal/digixdao-contracts/tree/master/contracts)\
+[hello-doug](https://github.com/monax/hello-doug)\
+[slockit/smart-contract](https://github.com/slockit/smart-contract)
+
+## Libraries
+[dapp-bin](https://github.com/ethereum/dapp-bin)\
+[dappsys](https://github.com/nexusdev/dappsys)\
+[instant-dapp-ide](https://github.com/dominicwilliams/instant-dapp-ide)\
+[Majoolr Libraries](https://github.com/Majoolr/ethereum-libraries)\
+[Solidity Collections](https://github.com/ethereum/wiki/wiki/Solidity-Collections)\
+[Solidity Standard Library](https://github.com/ethereum/wiki/blob/master/Solidity-standard-library.md)\
+[sqlsol](https://github.com/monax/sqlsol)\
+[Truffle](https://github.com/ConsenSys/truffle)
+
+
+## Tools
+[REPL](https://github.com/raineorshine/solidity-repl)\
+[solgraph](https://github.com/raineorshine/solgraph)\
+[Online Compiler](https://ethereum.github.io/browser-solidity/#version=soljson-latest.js)
+
+#### JavaScript
+[solc-js](https://github.com/ethereum/solc-js)\
+[solidity-parser](https://github.com/ConsenSys/solidity-parser)\
+[sulk](https://github.com/lukehedger/sulk)
+
+#### Utility
+[solhint](https://github.com/tokenhouse/solhint)\
+[sol-tester](https://github.com/androlo/sol-tester)\
+[solcover](https://github.com/JoinColony/solcover)\
+[ethrain](https://github.com/sebs/ethrain)\
+[rpc-check](https://github.com/sebs/rpc-check)
+
+#### Webpack
+[solidity-loader](https://github.com/jeffscottward/solidity-loader)
+
+## Editor Plugins
+#### Vim
+[vim-solidity](https://github.com/tomlion/vim-solidity)
+
+#### Atom
+[autocomplete-solidity](https://atom.io/packages/autocomplete-solidity)\
+[language-ethereum](https://atom.io/packages/language-ethereum)\
+[linter-solidity](https://atom.io/packages/linter-solidity)
+
+#### Sublime
+[SublimeEthereum](https://github.com/davidhq/SublimeEthereum)
+
+#### Emacs
+[emacs-solidity](https://github.com/ethereum/emacs-solidity)
+
+#### Visual Studio
+[vscode-solidity](https://github.com/juanfranblanco/vscode-solidity)
+
