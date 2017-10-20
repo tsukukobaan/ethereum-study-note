@@ -24,6 +24,7 @@ Tools&Framework
 [Pluralsight:bitcoin-decentralized-technology](https://www.pluralsight.com/courses/bitcoin-decentralized-technology)
 
 [Learn blockchains by building one](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)[(日本語)](https://qiita.com/hidehiro98/items/841ece65d896aeaa8a2a?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=8b482bbf74-Qiita_newsletter_282_10_18_2017&utm_medium=email&utm_term=0_e44feaa081-8b482bbf74-32916393)
+[Let's build the tiniest Blockchain](https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b)
 
 ## Ethereum基礎まとめ
 [技術者向け Ethereumの基礎知識 (イーサリアム、エセリウム)](http://block-chain.jp/tech/ethereum-basics-for-engineer/)\
