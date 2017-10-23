@@ -32,7 +32,7 @@ Tools&Framework
 [Ethereum入門](https://www.gitbook.com/book/a-mitani/mastering-ethereum/details)\
 [A 101 Noob Intro to Programming Smart Contracts on Ethereum](https://medium.com/@ConsenSys/a-101-noob-intro-to-programming-smart-contracts-on-ethereum-695d15c1dab4)\
 [Ethereum Frontier](https://ethereum.gitbooks.io/frontier-guide/content/index.html)\
-[Building a smart contract using the command line](https://www.ethereum.org/greeter)\
+[Building a smart contract using the command line](https://www.ethereum.org/greeter)(Out of dateで使えないeth.compile等)\
 [Ethereum Clockup memo](http://ethereum.clock-up.jp/)
 
 [Ethereum Stack Exchange](https://ethereum.stackexchange.com/)\
