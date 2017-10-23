@@ -14,7 +14,8 @@ Tools&Framework
 
 ## Blockchain基礎まとめ
 [Whitepaper by Satoshi Nakamoto](https://bitcoin.org/bitcoin.pdf)\
-[Bitcoin.org](https://bitcoin.org/en/)
+[Bitcoin.org](https://bitcoin.org/en/)\
+[5分でわかるブロックチェーンの基本的仕組み](https://www.slideshare.net/cookle/5-58379474)
 
 [Mastering Bitcoin(PDF)](https://www.bitcoinbook.info/translations-of-mastering-bitcoin/)\
 [Mastering Bitcoin(HTML)](http://chimera.labs.oreilly.com/books/1234000001802/index.html)
