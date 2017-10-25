@@ -39,6 +39,9 @@ Tools&Framework
 [Ether Scan](https://etherscan.io/)\
 [How to setup local test Ethereum Blockchain](https://lightrains.com/blogs/setup-local-ethereum-blockchain-private-testnet)\
 
+## 書籍
+[Mastering Bitcoin(書籍版)](https://www.amazon.co.jp/Mastering-Bitcoin-Programming-Open-Blockchain-ebook/dp/B071K7FCD4/ref=sr_1_9?ie=UTF8&qid=1508942132&sr=8-9&keywords=blockchain)
+[はじめてのブロックチェーンアプリケーション](https://www.amazon.co.jp/%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%81%AE%E3%83%96%E3%83%AD%E3%83%83%E3%82%AF%E3%83%81%E3%82%A7%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3-Ethereum%E3%81%AB%E3%82%88%E3%82%8B%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E3%82%B3%E3%83%B3%E3%83%88%E3%83%A9%E3%82%AF%E3%83%88%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80-DEV-Engineers-Books/dp/4798151343/ref=sr_1_1?ie=UTF8&qid=1508942277&sr=8-1&keywords=Ethereum)
 
 ## Ethereum
 ### [Ethereum.org](https://ethereum.org/)
